@@ -20,7 +20,7 @@ TextVQA is a fine-grained direction of the VQA task, which aims to read the text
 - ( **arxiv** )Structured Multimodal Attentions for TextVQA. [[paper](https://arxiv.org/abs/2006.00753)](**SMA**)
 
 ### 2019
-- ( **CVPR** )Towards VQA Models That Can Read. [[paper](https://arxiv.org/abs/1904.08920)][[code](https://github.com/facebookresearch/mmf)] -(**LoRRA/Dataset:TestVQA**)
-- ( **ICCV** ) Scene Text Visual Question Answering. [[paper](https://arxiv.org/abs/1905.13648)] -(**Dataset:STVQA**)
+- ( **CVPR** )Towards VQA Models That Can Read. [[paper](https://arxiv.org/abs/1904.08920)][[code](https://github.com/facebookresearch/mmf)] -(**LoRRA/Dataset:TextVQA**)
+- ( **ICCV** ) Scene Text Visual Question Answering. [[paper](https://arxiv.org/abs/1905.13648)] -(**Dataset:ST-VQA**)
 - ( **ICCV** )From Strings to Things: Knowledge-enabled VQA Model that can Read and Reason.  [[paper](https://ieeexplore.ieee.org/document/9010987)](**K-VQA**)
 - ( **ICDAR** )OCR-VQA: Visual Question Answering by Reading Text in Images.  [[paper](https://ieeexplore.ieee.org/document/8978122)] -(**Dataset:OCR-VQA**)
