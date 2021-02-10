@@ -5,6 +5,9 @@ TextVQA is a fine-grained direction of the VQA task, which aims to read the text
 
 **Note**: In the TextVQA task, here are some of the reference materials in the process of my own research.
 
+## Chanlleng 
+ICDAR 2019 Robust Reading Challenge on Scene Text Visual Question Answering[[overview](https://rrc.cvc.uab.es/?ch=11)][[result](https://rrc.cvc.uab.es/?ch=11&com=evaluation&task=1)]
+
 ## Papers
 ### 2021
 - ( **AAAI** )Simple is not Easy: A Simple Strong Baseline for TextVQA and TextCaps. [[paper](https://arxiv.org/abs/2012.05153)](**3-Att-Blok**)
@@ -17,7 +20,8 @@ TextVQA is a fine-grained direction of the VQA task, which aims to read the text
 - ( **COLING** )Finding the Evidence: Localization-aware Answer Prediction for Text Visual Question Answering. [[paper](https://arxiv.org/abs/2010.02582)](**LaAP**)
 - ( **CVPR** )On the General Value of Evidence, and Bilingual Scene-Text Visual Question Answering. [[paper](https://arxiv.org/abs/2002.10215)](**Dataset:EST-VQA/Model:QA R-CNN**)
 - ( **arxiv** )Multimodal grid features and cell pointers for Scene Text Visual Question Answering. [[paper](https://arxiv.org/abs/2006.00923)]
-- ( **arxiv** )Structured Multimodal Attentions for TextVQA. [[paper](https://arxiv.org/abs/2006.00753)](**SMA**)
+- ( **Report** )Structured Multimodal Attentions for TextVQA. [[paper](https://arxiv.org/abs/2006.00753)](**SMA**)
+- ( **Report** ) TAP: Text-Aware Pre-training for Text-VQA and Text-Caption. [[paper](https://arxiv.org/abs/2012.04638)](**TAP**)
 
 ### 2019
 - ( **CVPR** )Towards VQA Models That Can Read. [[paper](https://arxiv.org/abs/1904.08920)][[code](https://github.com/facebookresearch/mmf)] -(**LoRRA/Dataset:TextVQA**)
